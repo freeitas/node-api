@@ -4,7 +4,7 @@ GymPass style app.
 
 ## functional requirements
 
-- [ ] must be able to signup;
+- [x] must be able to signup;
 - [x] must be able to signin;
 - [ ] must be able to get the profile from the logged user;
 - [ ] must be able to get the numbers of check-ins from logged user;
