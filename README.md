@@ -11,7 +11,7 @@ GymPass style app.
 - [ ] must be able to user get his history of check-ins;
 - [ ] must be able to user find near gyms;
 - [ ] must be able to user find gyms by name;
-- [ ] must be able to user make a check-in on a gym;
+- [x] must be able to user make a check-in on a gym;
 - [ ] must be able to validade check-in from a user;
 - [ ] must be able to register an gym;
 
